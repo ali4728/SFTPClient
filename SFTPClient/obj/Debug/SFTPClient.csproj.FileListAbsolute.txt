@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2012\Projects\SFTPClient\SFTPClient\bin\Debug\SFTPClient.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\SFTPClient\SFTPClient\bin\Debug\SFTPClient.exe
+c:\users\administrator\documents\visual studio 2012\Projects\SFTPClient\SFTPClient\bin\Debug\SFTPClient.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\SFTPClient\SFTPClient\bin\Debug\WinSCPnet.dll
+c:\users\administrator\documents\visual studio 2012\Projects\SFTPClient\SFTPClient\obj\Debug\SFTPClient.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\SFTPClient\SFTPClient\obj\Debug\SFTPClient.exe
+c:\users\administrator\documents\visual studio 2012\Projects\SFTPClient\SFTPClient\obj\Debug\SFTPClient.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\SFTPClient\SFTPClient\bin\Debug\log4net.dll

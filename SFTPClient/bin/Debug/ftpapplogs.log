@@ -1,0 +1,10 @@
+2015-11-11 17:44:39,094 INFO  [FTPClient ] Name: bigfile.txt size 346, last modified: 20151111  22:36:34
+2015-11-11 17:44:39,104 INFO  [FTPClient ] Name: smallfile.txt size 58, last modified: 20151111  22:36:49
+2015-11-11 18:10:27,436 INFO  [FTPClient ] Name: bigfile.txt size 346, last modified: 20151111  22:36:34
+2015-11-11 18:10:27,446 INFO  [FTPClient ] Name: smallfile.txt size 58, last modified: 20151111  22:36:49
+2015-11-11 18:10:55,772 INFO  [FTPClient ] Name: bigfile.txt size 346, last modified: 20151111  22:36:34
+2015-11-11 18:10:55,782 INFO  [FTPClient ] Name: smallfile.txt size 58, last modified: 20151111  22:36:49
+2015-11-11 19:09:47,634 INFO  [FTPClient ] Name: bigfile.txt size 346, last modified: 20151111  22:36:34
+2015-11-11 19:09:47,644 INFO  [FTPClient ] Name: smallfile.txt size 58, last modified: 20151111  22:36:49
+2015-11-11 20:45:53,389 ERROR [FTPClient ] Error listing directory '/folder_for_834_files'.
+2015-11-11 20:46:24,758 ERROR [FTPClient ] Error listing directory '/folder_for_834_files'.
